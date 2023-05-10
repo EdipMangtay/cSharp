@@ -1,0 +1,11 @@
+C:\Users\aeman\OneDrive\Masaüstü\udemy_c#\manual_bilgi_yarismasi\manual_bilgi_yarismasi\bin\Debug\manual_bilgi_yarismasi.exe.config
+C:\Users\aeman\OneDrive\Masaüstü\udemy_c#\manual_bilgi_yarismasi\manual_bilgi_yarismasi\bin\Debug\manual_bilgi_yarismasi.exe
+C:\Users\aeman\OneDrive\Masaüstü\udemy_c#\manual_bilgi_yarismasi\manual_bilgi_yarismasi\bin\Debug\manual_bilgi_yarismasi.pdb
+C:\Users\aeman\OneDrive\Masaüstü\udemy_c#\manual_bilgi_yarismasi\manual_bilgi_yarismasi\obj\Debug\manual_bilgi_yarismasi.csproj.AssemblyReference.cache
+C:\Users\aeman\OneDrive\Masaüstü\udemy_c#\manual_bilgi_yarismasi\manual_bilgi_yarismasi\obj\Debug\manual_bilgi_yarismasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\aeman\OneDrive\Masaüstü\udemy_c#\manual_bilgi_yarismasi\manual_bilgi_yarismasi\obj\Debug\manual_bilgi_yarismasi.Form1.resources
+C:\Users\aeman\OneDrive\Masaüstü\udemy_c#\manual_bilgi_yarismasi\manual_bilgi_yarismasi\obj\Debug\manual_bilgi_yarismasi.Properties.Resources.resources
+C:\Users\aeman\OneDrive\Masaüstü\udemy_c#\manual_bilgi_yarismasi\manual_bilgi_yarismasi\obj\Debug\manual_bilgi_yarismasi.csproj.GenerateResource.cache
+C:\Users\aeman\OneDrive\Masaüstü\udemy_c#\manual_bilgi_yarismasi\manual_bilgi_yarismasi\obj\Debug\manual_bilgi_yarismasi.csproj.CoreCompileInputs.cache
+C:\Users\aeman\OneDrive\Masaüstü\udemy_c#\manual_bilgi_yarismasi\manual_bilgi_yarismasi\obj\Debug\manual_bilgi_yarismasi.exe
+C:\Users\aeman\OneDrive\Masaüstü\udemy_c#\manual_bilgi_yarismasi\manual_bilgi_yarismasi\obj\Debug\manual_bilgi_yarismasi.pdb
